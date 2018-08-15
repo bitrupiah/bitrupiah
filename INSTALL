@@ -1,0 +1,9 @@
+Building Bitrupiah
+
+See doc/readme-qt.rst for instructions on building Bitrupiah-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Bitrupiah.
+
+See doc/build-*.txt for instructions on building bitrupiahd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Bitrupiah.
